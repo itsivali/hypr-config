@@ -46,7 +46,6 @@ kvantum
 qt5ct
 firefox
 google-chrome
-archlinux-tweak-tool-dev-git
 github-desktop
 bitwarden
 postman-bin
@@ -63,4 +62,4 @@ eza|zsh
 oh-my-zsh-git|zsh
 zsh-theme-powerlevel10k|zsh oh-my-zsh-git
 pokemon-colorscripts-git|zsh
-hypr-config-ctl
+hyprdots-ctl
